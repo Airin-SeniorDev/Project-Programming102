@@ -1,0 +1,20 @@
+Tiramisu,88
+Caramel Macchiato,75
+Cheesecake,126
+Mixed Fruit Tart,760
+Brownie,64
+Soft Butter Cookie,20
+Iced Mocha,61
+Thai Iced Tea,141
+Egg Tart,65
+Chocolate Cake,46
+Apple Pie,58
+Yuzu Espresso,78
+Peach Tea,86
+Iced Americano,52
+Jasmine Tea,42
+Hot Latte,39
+Sausage Croissant,81
+Oolong Tea,62
+Matcha Frappe,76
+Ham & Cheese Bread,60
